@@ -1,0 +1,39 @@
+div  {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 90vw;
+    background-color: gray;
+    min-height: 80vh;
+    margin: 23px auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+.news {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+    background-color: cornsilk;
+    text-align:center;
+    border: 2px solid;
+}
+ol {
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    background-color: cornsilk;
+    border: 2px solid;
+}
+.image {
+    width: 200px;
+    border: 3px solid wheat;
+}
+#image {
+    width: 200px;
+    border: 3px solid wheat;
+}
+
